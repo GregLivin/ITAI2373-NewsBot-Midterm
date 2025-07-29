@@ -14,10 +14,20 @@ The NewsBot Intelligence System processes real-world news articles using a compl
 
 ##  Dataset
 
-- **Name**: BBC News Classification Dataset  
-- **Source**: [Kaggle – Learn AI BBC Dataset](https://www.kaggle.com/competitions/learn-ai-bbc/data)  
-- **Articles**: 2,000 across 5 categories  
-- **Preprocessing**: Cleaned, lemmatized, and saved as `newsbot_dataset.csv`  
+### 📁 Dataset Used
+
+This project uses the **BBC News Classification Dataset** available on [Kaggle](https://www.kaggle.com/datasets/ankurzing/sentiment-analysis-for-financial-news).
+
+Files included in this repository:
+- `BBC News Train.csv`
+- `BBC News Test.csv`
+- `BBC News Sample Solution.csv` (optional)
+
+To download the dataset directly from Kaggle via Colab, users must:
+1. Get a Kaggle API key (`kaggle.json`)
+2. Upload it into the notebook
+3. Run the provided download cell
+
 
 ---
 
