@@ -3,7 +3,7 @@
 **Project:** NLP Midterm – Modules 1–8  
 **Team Name:** Team 2  
 **Student Name:** Greg Livingston  
-**Instructor:** [Insert Instructor Name]
+**Instructor:** Professor : MMkt, MBA, MSIS Patricia McManus
 
 ## 📂 Project Overview
 This repository contains the full implementation of the NewsBot Intelligence System — a natural language processing pipeline that processes, classifies, and analyzes news articles using techniques from Modules 1–8.
@@ -28,10 +28,9 @@ Open the notebook in Google Colab, run each cell in order. You may upload a data
 - **Greg Livingston:** Preprocessing, Classification, Final Integration, NER Analysis
 
 ## 🎥 Optional Demo
-_No video demo submitted for this version._  
-*(Add link here if submitted later.)*
+
 
 ---
 
 ## 📬 Contact
-For questions or project details, contact: greglivin [at] example.com
+w216359933@student.hccs.edu
