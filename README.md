@@ -1,7 +1,8 @@
 # NewsBot Intelligence System – Midterm Project
-
-ITAI 2373 Natural Language Processing  
+ 
 Gregory Livingston
+ITAI 2373 Natural Language Processing
+Professor Patricia MacManus
 
 ---
 
@@ -50,14 +51,47 @@ To run this notebook in Google Colab:
 
 ---
 
-## Optional Demo Video 
+## 
 
 
 ---
 
-## 📌 Notes
+## Notes on NewsBot Project
+Platform Used: Google Colab
 
-- Developed on Google Colab
-- Uses `scikit-learn`, `spaCy`, `NLTK`, and `matplotlib`
+Dataset Source: News article dataset from Kaggle
+
+Main Goal: Automatically process, analyze, and classify news articles using Natural Language Processing (NLP)
+
+Key Features:
+Preprocessing: Cleaned and lemmatized text using spaCy and NLTK
+
+Feature Extraction: Used TF-IDF to convert text into numerical features
+
+Sentiment Analysis: Applied VADER to detect emotional tone
+
+Classification: Trained multiple models to categorize articles
+
+Entity Recognition: Extracted names, organizations, places, and dates using spaCy NER
+
+Tools and Libraries:
+Python, pandas, NumPy
+
+NLTK, spaCy, Scikit-learn, Matplotlib
+
+Google Colab for development
+
+GitHub for version control and portfolio showcase
+
+Future Plans:
+Add automatic text summarization
+
+Enable voice commands for interaction and dataset search
+
+Build a website interface
+
+Improve accuracy with advanced models
+
+Connect to live news sources
   
 
