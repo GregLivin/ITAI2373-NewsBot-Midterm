@@ -52,7 +52,12 @@ To download the dataset directly from Kaggle via Colab, users must:
 
 ---
 
-## To Run the Project
+## How to Run This Notebook in Google Colab
+Upload the dataset file named newsbot_dataset.csv to your Colab session.
+
+Open the notebook file NewsBot_Midterm.ipynb.
+
+Run each code cell in order from top to bottom to execute the full workflow.
 
 To run this notebook in Google Colab:
 1. Upload `newsbot_dataset.csv`
